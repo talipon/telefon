@@ -1130,9 +1130,17 @@ http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="Thaipbs" tvg-name="Thai PBS" group-title="THAILAND" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/116_y_wetQDATmEJofzrj8pF0CHM6W9LNPcbRn.png",TPBS
+#EXTINF:-1 tvg-id="Tpbs" tvg-name="Thai PBS" group-title="THAILAND" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/116_y_wetQDATmEJofzrj8pF0CHM6W9LNPcbRn.png",TPBS
 #EXTVLCOPT:network-caching=1000
-https://lb-mvtv-live.v2h-cdn.com/redirect/tpbs/tpbs.stream?type=m3u8
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#EXTINF:-1 tvg-id="ALTV" tvg-name="ALTV" group-title="THAILAND" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/117_y_o1rKZpXcCdnBush2j0etfFxN9DiVzIA4.png",ALTV
+#EXTVLCOPT:network-caching=1000
+https://lb-mvtv-live.v2h-cdn.com/redirect/altv2/altv.stream?type=m3u8
 
 
 ####################################################################INDIAN#########################################################################################
