@@ -1109,6 +1109,12 @@ https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist_b4096000_slENG.m3u8?i
 
 
 
+####################################################################THAILAND########################################################################################
+
+
+#EXTINF:0  tvg-logo="http://program.thaipbs.or.th/images/live-cover.png" group-title="THAILAND",  Thai PBS 3 (ไทยพีบีเอส)
+http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
+
 
 ####################################################################INDIAN#########################################################################################
 
