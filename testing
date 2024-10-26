@@ -1122,7 +1122,7 @@ https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist_b4096000_slENG.m3u8?i
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 #EXTINF:-1 tvg-id="Thaipbs3" tvg-name="Thai PBS 3" group-title="THAILAND" tvg-logo="http://program.thaipbs.or.th/images/live-cover.png",Thai PBS 3 (ไทยพีบีเอส)
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -1131,7 +1131,7 @@ http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 #EXTINF:-1 tvg-id="ALTV" tvg-name="ALTV" group-title="THAILAND" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/117_y_o1rKZpXcCdnBush2j0etfFxN9DiVzIA4.png",ALTV
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://lb-mvtv-live.v2h-cdn.com/redirect/altv2/altv.stream?type=m3u8
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -1140,7 +1140,7 @@ https://lb-mvtv-live.v2h-cdn.com/redirect/altv2/altv.stream?type=m3u8
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 #EXTINF:-1 tvg-id="NBT" tvg-name="NBT" group-title="THAILAND" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/115_y_CMe1TGxboE3rpW6dVmj5cOqyZaNfkQKD.png",NBT
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://lb-mvtv-live.v2h-cdn.com/redirect/nbt/nbt.stream?type=m3u8
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -1148,8 +1148,8 @@ https://lb-mvtv-live.v2h-cdn.com/redirect/nbt/nbt.stream?type=m3u8
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="TV5 HD" tvg-name="5HD" group-title="THAILAND" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/118_y_GimRnJkEqLtCh2rUueBlFa9oDpNKsvSc.png",5HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="TV5HD" tvg-name="5HD" group-title="THAILAND" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/118_y_GimRnJkEqLtCh2rUueBlFa9oDpNKsvSc.png",5HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://lb-mvtv-live.v2h-cdn.com/redirect/tv5hd/tv5hd.stream?type=m3u8
 
 
