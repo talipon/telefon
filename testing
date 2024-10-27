@@ -619,12 +619,10 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5025/manifest.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default.mpd
 
-#%EXTINF:-1 group-title="MALAYSIA" tvg-id="AstroRia" ch-number="104" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png",104 Astro Ria
-##KODIPROP:inputstream.adaptive.license_type=clearkey
-##KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"N2sAl5bkrVDqj2jXlmdmkg", "kid":"P3Jv1cu/WURDek2/q0MbEA" } ], "type":"temporary" } 
-##https://linearjitp02-playback.astro.com.my/vsg/41Q2JOX8KtOe28ba8x3splIguOrP487D2BAVqzhfqNLpU=z4VY/dash-wv/jitp-linearwm/1004/default.mpd
-##https://ktpremium.com:443/N197NGF/8199/912833
-%https://smt.sky4k.eu.org/AEC_V6/index.php?play=stream1&id=AstroRiaHD
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png" group-title="SaniMpd", Astro Ria B
+http://50.7.234.10:8278/Ria-0/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=5f6516ffccb5907ca205b12bdc7ff6ef
+http://50.7.234.10:8278/Ria49/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=64ada2009698fe228eccf08c4bff2157
+http://50.7.234.10:8278/Ria_quanjia/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=a85951d75054cf9b117aa2f16107895e
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
