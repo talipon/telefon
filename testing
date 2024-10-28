@@ -2809,6 +2809,26 @@ https://mediaprima.rastream.com/mediaprima-onefm
 https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/8FM.m3u8
 
 #EXTINF:-1 group-title="RADIO" tvg-id="CHN" ch-number="725" tvg-logo="https://i.ibb.co/dPshJ69/d9bb396880948b6845872f6eb6df281f.png",Molek FM
+
+
+
+
+#EXTINF:-1 group-title="MALAYSIA" tvg-id="AstroRia.my" tvg-name="Astro Ria HD" tvg￾logo="https://i.imgur.com/RrIVJJY.png",Astro Ria 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/1004
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_primary.mpd
+
+#EXTINF:-1 group-title="MALAYSIA" tvg-id="104" tvg-name="Astro Ria HD" tvg￾logo="https://i.imgur.com/RrIVJJY.png",Astro Ria ˢᵉʳᵛᵉʳ ² ⁽ ⁾
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/1004
+#https://aqfadtv.xyz/live/ria/index.mpd
+
+#EXTINF:-1 group-title="MALAYSIA" tvg-id="104" tvg-name="Astro Ria HD" tvg￾logo="https://i.imgur.com/RrIVJJY.png",Astro Ria ˢᵉʳᵛᵉʳ ³ ⁽ ⁾
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/1004
+#https://stream.zeehanzgadget.com/ria.mpd
+
 https://mediaprima.rastream.com/mediaprima-molekfm
 
 #EXTINF:-1 group-title="RADIO" tvg-id="CHN" tvg-logo="https://i.ibb.co/dPshJ69/d9bb396880948b6845872f6eb6df281f.png",Molek FM (YouTube Live)
