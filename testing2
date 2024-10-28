@@ -9,6 +9,15 @@
 
 ================================NEGARAKU TV=================================--------
 
+#EXTINF:-1 group-title="MALAYSIA" tvg-id="AstroRia.my" tvg-name="Astro Ria HD" tvglogo="https://i.imgur.com/RrIVJJY.png",Astro Ria cUBA DULU
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/
+linear/1004
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1004/
+default_primary.mpd
+
+
 #EXTINF:-1 tvg-logo="https://apkplz.net/storage/images/com/tvtv/malaysia/onlinetvmalaysia/com.tvtv.malaysia.onlinetvmalaysia_1.png" group-title="SaniMpd", Berita RTM
 #EXTVLCOPT:http-referer=https://rtmklik.rtm.gov.my
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
