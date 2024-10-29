@@ -123,7 +123,8 @@ https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-
 http://50.7.234.10:8278/Ria-0/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=5f6516ffccb5907ca205b12bdc7ff6ef
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash#EXTINF:-1 tvg-id="AstroRia" tvg-name="Astro Ria" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png" group-title="MALAYSIA;ASTRO" ch-number="019.2",ASTRO RIA 2
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="AstroRia" tvg-name="Astro Ria" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png" group-title="MALAYSIA;ASTRO" ch-number="019.2",ASTRO RIA 2
 http://50.7.234.10:8278/Ria49/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=64ada2009698fe228eccf08c4bff2157
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -170,13 +171,13 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5025/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"OaJ6osyEoptmX8xNv5xUtg","kid":"FAa78hjKFPlnA0/PSr93EA"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="BERNAMA TV" tvg-name="BERNAMA TV" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/502.png" group-title="MALAYSIA;NEWS" ch-number="025",BERNAMA TV
+#EXTINF:-1 tvg-id="BERNAMA TV" tvg-name="BERNAMA TV" tvg-logo="https://www.bernama.com/corporate/assets/img/bernama.png" group-title="MALAYSIA;NEWS" ch-number="025",BERNAMA TV
 http://linearjitp02-playback.astro.com.my/dash-wv/linear/1114/default_primary.mpd
 
 #EXTINF:-1 tvg-id="TV IKIM" tvg-name="TV IKIM" tvg-logo="http://www.tvikim.my/images/logo-header-02.png" group-title="MALAYSIA;NEWS" ch-number="026,TV IKIM
 https://origin.vediostream.com/abr/tvikim/playlist.m3u8
 
-#EXTINF:-1 tvg-id="BERITA RTM" tvg-name="BERITA RTM" tvg-logo="https://jepstoreott.jepstore057.workers.dev/0:/jepstore/logojepstore/BERITARTM.png" group-title="MALAYSIA;NEWS" ch-number="027",BERITA RTM
+#EXTINF:-1 tvg-id="BERITA RTM" tvg-name="BERITA RTM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Logo_Berita_RTM.png/1200px-Logo_Berita_RTM.png?20230810030826" group-title="MALAYSIA;NEWS" ch-number="027",BERITA RTM
 #EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd
 
