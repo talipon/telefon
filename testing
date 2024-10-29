@@ -7,8 +7,9 @@
 
 ############################################################### MALAYSIA ######################################################################################################################
 
-### 001-TV1 | 002-TV2 | 003-TV3 | 004-TV6 | 005-TV9 | 006-TV AL-HIJRAH | 007-AWESOME TV | 008-TV OKEY | 009-LOL | 010-DIDIK TV | 011-BERNAMA TV | 012-BERITA RTM | 013-SUKAN RTM | 014-RTM ASEAN |
-###  015-TVS-SARAWAK | 016-8TV | 017-PARLIMEN DEWAN RAKYAT | 018-PARLIMEN DEWAN NEGARA | 019-SELANGOR TV 
+### 001-TV1 | 002-TV2 | 003-TV3 | 004-TV6 | 005-TV9 | 006-TV ALHIJRAH | 007-AWESOME TV | 008-TV OKEY | 009-ASTRO CERIA | 010-ASTRO CITRA X | 011-ASTRO OASIS | 012-ASTRO PRIMA X | 013-WARNA X | 014-RANIA |
+### 015-ASTRO AURA | 016-DRAMA HEBAT | 017-FILEM MANTAP | 018-DRAMA HOTPOT | 019-ASTRO RIA | 020-DIDIK TV | 021-TUTOR TV SMK | 022-LAWAK SENTRAL | 023-LOL | 024-ASTRO AWANI | 025-BERNAMA TV | 026-TV IKIM |
+### 027-BERITA RTM | 028-RTM ASEAN | 029-ASTRO ARENA | 030-SUKAN RTM |  031-TVS SARAWAK | 032-PARLIMEN DEWAN RAKYAT | 033-PARLIMEN DEWAN NEGARA | 030-NTV7 | 030-8TV | 030-SUKAN RTM | TV SELANGOR
 
 ### X OK - 007-AWESOME TV | 019-SELANGOR TV
 
@@ -71,92 +72,21 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5072/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Dw6mw1Q8Kdf1E+uIbrdPiA", "kid":"tuYMoNKOj5c5Xwe04uU6EA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="Astro Ceria 611" tvg-name="Astro Ceria HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Astro_Ceria_%282019%29.png/revision/latest?cb=20201018231230" group-title="MALAYSIA;ASTRO" ch-number="008.1",Astro Ceria
+#EXTINF:-1 tvg-id="Astro Ceria 611" tvg-name="Astro Ceria HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Astro_Ceria_%282019%29.png/revision/latest?cb=20201018231230" group-title="MALAYSIA;ASTRO" ch-number="009",ASTRO CERIA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default.mpd
 
-
-
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"EVNYahpFPgNAJxSimZZFZA", "kid":"EiyEvBMJQFhslhuuZSs2EA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="LOL" tvg-name="LOL" group-logo="https://github.com/hampusborgos/country-flags/blob/main/png1000px/my.png" tvg-logo="http://linear-poster.astro.com.my/prod/logo/LOL.png"  group-title="MALAYSIA" ch-number="009",LOL
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/5167/default_ott.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"4EDKKqQm33ibo4S6VhiRtA", "kid":"R6Ega0SCLIkyDnCRbPV7DA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="DIDIK TV" tvg-name="DIDIK TV" tvg-logo="https://ws.kapallayar.cc//image//Logo//MALAYSIA//New//M_V7.png" group-title="MALAYSIA" ch-number="010",DIDIK TV
-https://unifi-live06.secureswiftcontent.com/UnifiHD/live06.mpd
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"OaJ6osyEoptmX8xNv5xUtg","kid":"FAa78hjKFPlnA0/PSr93EA"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="BERNAMA TV" tvg-name="BERNAMA TV" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/502.png" group-title="MALAYSIA;NEWS" ch-number="011",BERNAMA TV | BERITA RTM | SUKAN RTM | RTM ASEAN | TVS-SARAWAK | 8TV | PARLIMEN DEWAN RAKYAT | PARLIMEN DEWAN NEGARA | SELANGOR TV
-http://linearjitp02-playback.astro.com.my/dash-wv/linear/1114/default_primary.mpd
-
-#EXTINF:-1 tvg-id="BERITA RTM" tvg-name="BERITA RTM" tvg-logo="https://jepstoreott.jepstore057.workers.dev/0:/jepstore/logojepstore/BERITARTM.png" group-title="MALAYSIA;NEWS" ch-number="012",BERITA RTM
-#EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
-https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd
-
-#EXTINF:-1 tvg-id="SUKAN RTM" tvg-name="SUKAN RTM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/RTM_HD_Sports.png" group-title="MALAYSIA;SPORTS" ch-number="013",SUKAN RTM
-#EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
-https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/playlist.m3u8?id=4
-
-#EXTINF:-1 tvg-id="RTM ASEAN" tvg-name="RTM ASEAN" group-title="MALAYSIA" group-logo="https://iili.io/H7B4QYF.png" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png" ch-number="014",RTM ASEAN
-https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Vcyu6IazQN2QH0v43Z06ag", "kid":"w+lWs4rpk74UlMfPoXsREA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="TVS-SARAWAK" tvg-name="TVS-SARAWAK)" group-title="MALAYSIA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/429_144.png" ch-number="015,TVS-SARAWAK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default_primary.mpd
-#https://agsplayback01.astro.com.my:443/CH1/master_AGS_TVS.m3u8
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Edoa02jQys/+SCS2s14itw", "kid":"DLeYDp0diVf5opPtljQkEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="8TV" tvg-name="8TV" tvg-logo="https://iili.io/1NqvDJ.png" group-title="MALAYSIA" ch-number="016",8TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/911/default.mpd
-
-#EXTINF:-1 tvg-id="PARLIMEN DEWAN RAKYAT" tvg-name="PARLIMEN DEWAN RAKYAT" tvg-logo="https://rtmparlimen.rtm.gov.my/images/header.png" group-title="MALAYSIA" ch-number="017",PARLIMEN DEWAN RAKYAT
-https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/chunklist_b2596000_slENG.m3u8?id=7
-
-#EXTINF:-1 tvg-id="PARLIMEN DEWAN NEGARA" tvg-name="PARLIMEN DEWAN NEGARA" tvg-logo="https://rtmparlimen.rtm.gov.my/images/header.png" group-title="MALAYSIA" ch-number="018",PARLIMEN DEWAN NEGARA
-https://d25tgymtnqzu8s.cloudfront.net/smil:negara/chunklist_b2596000_slENG.m3u8?id=8
-
-
-#EXTINF:-1 tvg-id="SELANGOR TV" tvg-name="SELANGOR TV" tvg-logo="https://selangortv.my/wp-content/uploads/2020/10/cropped-SelangorTV2.png" group-title="MALAYSIA" ch-number="019",SELANGOR TV
-https://skyios.sky4k.top/S1G_010/playlist.m3u8?auth=Astra&Time=0422022
-
-############################################################### ASTRO ######################################################################################################################
-
-### 001-TV1 | 002-TV2 | 003-TV3 | 004-TV6 | 005-TV9 | 006-TV ALHIJRAH | 007-AWESOME TV | 008-TV OKEY | 009-LOL | 010-DIDIK TV | 011-BERNAMA TV | 012-BERITA RTM | 013-SUKAN RTM | 014-RTM ASEAN |
-###  015-TVS-SARAWAK | 016-8TV | 017-PARLIMEN DEWAN RAKYAT | 018-PARLIMEN DEWAN NEGARA | 019-SELANGOR TV 
-
-### X OK - 007-AWESOME TV | 019-SELANGOR TV
-
-############################################################### ASTRO ######################################################################################################################
-
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"XzX4FWmRQOJknYJfDSQCjg", "kid":"F9XWLcYZVLgu4BbaJkq9EA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="AstroOasis" tvg-name="Astro Oasis HD" group-title="MALAYSIA" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png" tvg-logo="https://ws.kapallayar.cc//image//Logo//MALAYSIA//New//M_Oasis.png",106 ASTRO OASIS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTINF:-1 tvg-id="Astro Oasis HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f5/Astro_Oasis.png/revision/latest?cb=20180622071546" group-title="MALAYSIA;ASTRO" ch-number="011",ASTRO OASIS
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_primary.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"jkIAv1xNUj/wC/0XPQIWAg", "kid":"eExgN+WIjoQQbkEFn+KxEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="AstroRania" tvg-name="ASTRO RANIA HD" group-title="MALAYSIA" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png" tvg-logo="https://ws.kapallayar.cc//image//Logo//INDO//INDO_RANIA.png",112 ASTRO RANIA
+#EXTINF:-1 tvg-id="AstroRania" tvg-name="ASTRO RANIA HD" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png" tvg-logo="https://ws.kapallayar.cc//image//Logo//INDO//INDO_RANIA.png" group-title="MALAYSIA;ASTRO" ch-number="014",ASTRO RANIA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/608/manifest.mpd
 
@@ -164,88 +94,147 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/608/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"9cIxIYX58MSJS3POF0GdjA", "kid":"hpwyN9L654MBqR27WpJNEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="AstroAura" tvg-name="ASTRO AURA HD" group-title="MALAYSIA" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png" tvg-logo="https://ws.kapallayar.cc//image//Logo//INDO//INDO_AURA.png",113 ASTRO AURA
+#EXTINF:-1 tvg-id="AstroAura" tvg-name="ASTRO AURA HD" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png" tvg-logo="https://ws.kapallayar.cc//image//Logo//INDO//INDO_AURA.png" group-title="MALAYSIA;ASTRO" ch-number="015",ASTRO AURA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/609/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTINF:-1 tvg-id="DRAMA HEBAT" tvg-name="DRAMA HEBAT" tvg-logo="https://telegra.ph/file/0c4afb9624d691ef282a4.png" group-title="MALAYSIA" ch-number="016",DRAMA HEBAT
+https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_1/dash.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTINF:-1 tvg-id="FILEM MANTAP" tvg-name="FILEM MANTAP" tvg-logo="https://telegra.ph/file/6c1ea8ba4e4fd18681306.png" group-title="MALAYSIA" ch-number="017",FILEM MANTAP
+https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_2/dash.mpd
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTINF:-1 tvg-id="DRAMA HOTPOT" tvg-name="DRAMA HOTPOT" tvg-logo="https://telegra.ph/file/d58fe99a006c3ad4b9e24.png" group-title="MALAYSIA" ch-number="018",DRAMA HOTSPOT
+https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_4/dash.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="AstroRia" tvg-name="Astro Ria" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png" group-title="MALAYSIA;ASTRO" ch-number="019", ASTRO RIA 1
+http://50.7.234.10:8278/Ria-0/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=5f6516ffccb5907ca205b12bdc7ff6ef
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash#EXTINF:-1 tvg-id="AstroRia" tvg-name="Astro Ria" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png" group-title="MALAYSIA;ASTRO" ch-number="019.2",ASTRO RIA 2
+http://50.7.234.10:8278/Ria49/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=64ada2009698fe228eccf08c4bff2157
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="AstroRia" tvg-name="Astro Ria" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png" group-title="MALAYSIA;ASTRO" ch-number="019.3",ASTRO RIA 3
+http://50.7.234.10:8278/Ria_quanjia/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=a85951d75054cf9b117aa2f16107895e
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"4EDKKqQm33ibo4S6VhiRtA", "kid":"R6Ega0SCLIkyDnCRbPV7DA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="DIDIK TV" tvg-name="DIDIK TV" tvg-logo="https://ws.kapallayar.cc//image//Logo//MALAYSIA//New//M_V7.png" group-title="MALAYSIA" ch-number="020",DIDIK TV
+https://unifi-live06.secureswiftcontent.com/UnifiHD/live06.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"rtncAgOHJarb0Me9FwkkCw", "kid":"iCm49NkdJjDzmMZ+2UwjEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="AstroTutorTVSMK" tvg-name="Astro Tutor TV SMK" group-title="MALAYSIA" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png" tvg-logo="https://ws.kapallayar.cc//image//Logo//MALAYSIA//New//M_SPM.png",603 TUTOR TV SMK
+#EXTINF:-1 tvg-id="AstroTutorTVSMK" tvg-name="Astro Tutor TV SMK" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png" tvg-logo="https://ws.kapallayar.cc//image//Logo//MALAYSIA//New//M_SPM.png" group-title="MALAYSIA;ASTRO" ch-number="021",ASTRO TUTOR TV SMK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5071/default_ott.mpd
 
-#EXTINF:-1 tvg-id=" " group-title="Malaysia" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/147.png",NTV7
-#EXTVLCOPT:http-referrer=https://dailymotion.com
-https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/DidikTVKPM.m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTINF:-1 tvg-id="LAWAK SENTRAL" group-logo="https://telegra.ph/file/5231dea66798aba2c94b7.png" group-title="MALAYSIA" tvg-logo="https://telegra.ph/file/1621221a6795938224b62.png" group-title="MALAYSIA;ASTRO" ch-number="022",LAWAK SENTRAL
+https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_3/dash.mpd
 
-#EXTINF:-1 tvg-id=" " group-title="Malaysia" tvg-logo="https://baseimages.tonton.com.my/1580295767086_drama_sangat_new.jpg",Drama Sangat
-#EXTVLCOPT:http-referrer=https://dailymotion.com
-https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/Drama_Sangat.m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"EVNYahpFPgNAJxSimZZFZA", "kid":"EiyEvBMJQFhslhuuZSs2EA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="LOL" tvg-name="LOL" group-logo="https://github.com/hampusborgos/country-flags/blob/main/png1000px/my.png" tvg-logo="http://linear-poster.astro.com.my/prod/logo/LOL.png" group-title="MALAYSIA" ch-number="023",LOL
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5167/default_ott.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5f437ad29765f253325a84298d9f0d10&key=d8e36aeb7416a20a124c2d132c8f74f9
-#EXTINF:-1 tvg-id="104" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png" group-title="Malaysia",Astro Ria
-http://linears-playback.astro.com.my/vsg/21_YiP04oA56TTwUKTsw9bZfMogOk6Y-Fa_QUcg0tJDdA=Ox-x/dash-wv/jitp-linearwm/1004/default_ott.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=40bb94cdb1c90f6cc15073d9a500c810&key=264de3f18e64770e92a2d29f2b177701
-#EXTINF:-1 tvg-id="107" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png" group-title="Malaysia",Astro Warna 
-http://linears-playback.astro.com.my/vsg/21_YiP04oA56TTwUKTsw9bZfMogOk6Y-Fa_QUcg0tJDdA=Ox-x/dash-wv/jitp-linearwm/2402/default_ott.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=7b65e3d6ee807842a109821fba96b510&key=7827b9cf05fda4c3b77f48dea0acfa48
-#EXTINF:-1 tvg-id="106" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Oasis_v1.png" group-title="Malaysia",Astro Oasis 
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"UlUQz6Y0vWMK+MlfqTV2yg", "kid":"bwbzs898utDMiyHiyU37EA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="AstroAwani" tvg-name="Astro Awani HD" group-title="MALAYSIA" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png" tvg-logo="https://ws.kapallayar.cc//image//Logo//MALAYSIA//New//M_Awani.png" group-title="MALAYSIA;ASTRO;NEWS" ch-number="024",ASTRO AWANI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5025/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=452aca9691995f5ae62629035888e110&key=35d62e585c052018e1c190eda89fafa3
-#EXTINF:-1 tvg-id="105" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png" group-title="Malaysia",Astro Prima
-http://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"OaJ6osyEoptmX8xNv5xUtg","kid":"FAa78hjKFPlnA0/PSr93EA"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="BERNAMA TV" tvg-name="BERNAMA TV" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/502.png" group-title="MALAYSIA;NEWS" ch-number="025",BERNAMA TV
+http://linearjitp02-playback.astro.com.my/dash-wv/linear/1114/default_primary.mpd
 
-#EXTINF:-1 tvg-id=" " group-title="Malaysia" tvg-logo="https://tvstv.my/wp-content/uploads/2020/09/cropped-TVS-Logo-Square2.jpg",TVS
-https://agsplayback01.astro.com.my:443/CH1/master_AGS_TVS_04.m3u8
-
-#EXTINF:-1 tvg-id=" " group-title="Malaysia" tvg-logo="http://www.tvikim.my/images/logo-header-02.png",TVIKIM
+#EXTINF:-1 tvg-id="TV IKIM" tvg-name="TV IKIM" tvg-logo="http://www.tvikim.my/images/logo-header-02.png" group-title="MALAYSIA;NEWS" ch-number="026,TV IKIM
 https://origin.vediostream.com/abr/tvikim/playlist.m3u8
 
-#EXTINF:-1 tvg-id=" " group-title="Malaysia" tvg-logo="https://play-lh.googleusercontent.com/pbbrr6jWaoVhtK_aJSQgLNOnssxQ55NUwrZLCFx-9DJH2jUEV92Evcsi2jSkA1zhsg=s360-rw",Astro Go Shop 
-https://agsplayback01.astro.com.my/CH1/master_AGS_RAYA_04.m3u8
+#EXTINF:-1 tvg-id="BERITA RTM" tvg-name="BERITA RTM" tvg-logo="https://jepstoreott.jepstore057.workers.dev/0:/jepstore/logojepstore/BERITARTM.png" group-title="MALAYSIA;NEWS" ch-number="027",BERITA RTM
+#EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
+https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd
+
+#EXTINF:-1 tvg-id="RTM ASEAN" tvg-name="RTM ASEAN" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png" group-title="MALAYSIA;NEWS" ch-number="028",RTM ASEAN
+https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u8
+
+KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=efda647dad723563b625be8c05ee6110:6776985938b332164b97b81fe566a34a
+#EXTINF:-1 tvg-id="ASTRO ARENA"  tvg-name="ASTRO ARENA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png" group-title="MALAYSIA;ASTRO;SPORTS" ch-number="029",ASTRO ARENA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default.mpd
+
+#EXTINF:-1 tvg-id="SUKAN RTM" tvg-name="SUKAN RTM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/RTM_HD_Sports.png" group-title="MALAYSIA;SPORTS" ch-number="030",SUKAN RTM
+#EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/playlist.m3u8?id=4
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=73e84f91bd9ae20412e370f98fd3a110&key=d5b52aabca5afe002eb495804f8ec944
-#EXTINF:-1 tvg-id="108" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png" group-title="Movies",Astro Citra 
-http://linears-playback.astro.com.my/vsg/21_YiP04oA56TTwUKTsw9bZfMogOk6Y-Fa_QUcg0tJDdA=Ox-x/dash-wv/jitp-linearwm/2700/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Vcyu6IazQN2QH0v43Z06ag", "kid":"w+lWs4rpk74UlMfPoXsREA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="TVS-SARAWAK" tvg-name="TVS-SARAWAK)" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/429_144.png" group-title="MALAYSIA" ch-number="031,TVS-SARAWAK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default_primary.mpd
+#https://agsplayback01.astro.com.my:443/CH1/master_AGS_TVS.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=c3743253e4717ebb939a814f6a20ac10&key=455e412c13c6369c12555ade2af64a04
-#EXTINF:-1 tvg-id="555" tvg-logo="http://linear-poster.astro.com.my/prod/logo/History_v1.png" group-title="Knowledge",History 
-http://linearjitp-playback.astro.com.my/dash-wv/linear/604/default_ott.mpd
+#EXTINF:-1 tvg-id="PARLIMEN DEWAN RAKYAT" tvg-name="PARLIMEN DEWAN RAKYAT" tvg-logo="https://rtmparlimen.rtm.gov.my/images/header.png" group-title="MALAYSIA" ch-number="032",PARLIMEN DEWAN RAKYAT
+https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/chunklist_b2596000_slENG.m3u8?id=7
 
-ODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=394a40dfff6320fca4a327d7c3127610&key=68633db62849223bb7de00c64f87166f
-#EXTINF:-1 tvg-id="551" tvg-logo="http://linear-poster.astro.com.my/prod/logo/National_Geographic_v1.png" group-title="Knowledge",National Geographic 
-http://linearjitp-playback.astro.com.my/dash-wv/linear/600/default_ott.mpd
+#EXTINF:-1 tvg-id="PARLIMEN DEWAN NEGARA" tvg-name="PARLIMEN DEWAN NEGARA" tvg-logo="https://rtmparlimen.rtm.gov.my/images/header.png" group-title="MALAYSIA" ch-number="033",PARLIMEN DEWAN NEGARA
+https://d25tgymtnqzu8s.cloudfront.net/smil:negara/chunklist_b2596000_slENG.m3u8?id=8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=0c626a3022340ea1d7af15e51a118a10&key=543ce4c3e6139f46c4a95c57ef64f540
-#EXTINF:-1 tvg-id="550" tvg-logo="http://linear-poster.astro.com.my/prod/logo/NatGeo_WILD_V3.png" group-title="Knowledge",NAT GEO WILD
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2103/default_ott.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Edoa02jQys/+SCS2s14itw", "kid":"DLeYDp0diVf5opPtljQkEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="8TV" tvg-name="8TV" tvg-logo="https://iili.io/1NqvDJ.png" group-title="MALAYSIA" ch-number="035",8TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/911/default.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=217e77e40cf4ec1269ea1e278eb2c610&key=b2a2333955933b7dc3d71e7685971f71
-#EXTINF:-1 tvg-id="113" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroAura.png" group-title="INDON",ASTRO AURA
-http://linearjitp-playback.astro.com.my/dash-wv/linear/609/default_ott.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"BW4eSVc9LK7ly0/nj4xPPQ", "kid":"qcYZB07TjCDiWtNsPFfBDA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="8TV" tvg-name="8TV" tvg-logo="https://ws.kapallayar.cc//image//Logo//MALAYSIA//New//M_V8.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png" group-title="MALAYSIA" ch-number="035.1",148 8TV
+https://unifi-live08.secureswiftcontent.com/UnifiHD/live08.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=8a4b24805e598acd00fae76918b3f610&key=1807230578255fcd79e1279b13ae69d8
-#EXTINF:-1 tvg-id="112" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroRania.png" group-title="INDON",ASTRO RANIA
-http://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_ott.mpd
+#EXTINF:-1 tvg-id="TV SELANGOR" tvg-name="TV SELANGOR" tvg-logo="https://selangortv.my/wp-content/uploads/2020/10/cropped-SelangorTV2.png" group-title="MALAYSIA" ch-number="036",TV SELANGOR 
+https://skyios.sky4k.top/S1G_010/playlist.m3u8?auth=Astra&Time=0422022
 
 
-#EXTINF:-1 tvg-logo="http://mediahomes.github.io/logos/drama-sangat.png" group-title="MALAYSIA",DRAMA SANGAT 2
-https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/Drama_Sangat.m3u8
+############################################################### ASTRO ######################################################################################################################
+
+###
+###
+
+### X OK - 007-AWESOME TV | 019-SELANGOR TV
+
+############################################################### ASTRO ######################################################################################################################
+
+
 
 
 
