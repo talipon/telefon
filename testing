@@ -1537,17 +1537,8 @@ http://103.107.79.87:8080/CH8109HD04/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="INDIAN"  tvg-logo="https://i.postimg.cc/RZDWpTNX/muat-turun-9.jpg",shemaroo Bollywood
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="INDIAN"  tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Cineplax.png",Colors Cineplex (A)
-http://170.254.18.107/CINEPLEX/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="INDIAN"  tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Cineplax.png",Colors Cineplex (B)
-http://e6ce69f2.kazaktelekom.com/iptv/K4NFFYMLT9ZLUX/6572/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="INDIAN"  tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Cineplax.png",Colors Cineplex Superhit
-https://jiotv.nayeemparvez.workers.dev/bpk-tv/Rishtey_Cineplex_voot_MOB/Fallback/index.m3u8
-
-
-
+http://e6ce69f2.kazaktelekom.com/iptv/K4NFFYMLT9ZLUX/6572/index.m3u8
 
 ################################################################CHINESE##########################################################################################
 
