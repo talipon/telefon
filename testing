@@ -39,8 +39,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5027/manifest.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/809/default.mpd
 
-#EXTINF:-1 tvg-chno="106" tvg-id="TV6" tvg-name="TV6" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/RTM6.png" group-title="MALAYSIA" ch-number="004",TV6
-https://live01.gohkh9.eu.org/live.php?id=TV6
+#EXTINF:-1 tvg-id="TV6" tvg-name="TV6" tvg-id="TV6" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/TV6_%28Malaysia_2021%29.svg/revision/latest/scale-to-width-down/200?cb=20210327202814" group-title="MALAYSIA" ch-number="004",TV6
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist_b2596000_slENG.m3u8?id=6
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
